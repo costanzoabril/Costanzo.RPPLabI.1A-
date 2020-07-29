@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1596032744 source:c:\users\franco costanzo\desktop\abril facultad\rpp.labi\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"alquileres.h"
+	"validaciones.h"
+
+1596032719 c:\users\franco costanzo\desktop\abril facultad\rpp.labi\alquileres.h
+
+1593557496 c:\users\franco costanzo\desktop\abril facultad\rpp.labi\validaciones.h
+
+1593920933 source:c:\users\franco costanzo\desktop\abril facultad\rpp.labi\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1596032722 source:c:\users\franco costanzo\desktop\abril facultad\rpp.labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquileres.h"
+	"validaciones.h"
+
